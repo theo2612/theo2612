@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+* I'm currently working on TCM's [Practical Network Penetration Tester Certification](https://certifications.tcm-sec.com/)
+* I'm currently learning the command line with my Ubuntu server on my host system 
+* I stream myself learning these concepts [7h30 on Twitch](https://www.twitch.tv/b7h30)
+
 
 <!--
 **theo2612/theo2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
