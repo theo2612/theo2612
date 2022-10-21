@@ -1,6 +1,5 @@
 ## Hi there 👋
-* I'm currently working on TCM's [Practical Network Penetration Tester Certification](https://certifications.tcm-sec.com/)
-* I'm currently learning the command line with my Ubuntu server named scmods on my host system 
+* - 🌱 I’m currently learning ELK stack with t-pot
 * I stream myself learning these concepts [7h30 on Twitch](https://www.twitch.tv/b7h30)
 
 
