@@ -1,6 +1,6 @@
 ## Hi there 👋
 * - 🌱 I’m currently learning ELK stack with t-pot
-* I stream myself learning these concepts [7h30 on Twitch](https://www.twitch.tv/b7h30)
+* I stream myself learning these concepts [b7h30 on Twitch](https://www.twitch.tv/b7h30)
 
 
 <!--
