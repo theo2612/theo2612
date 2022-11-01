@@ -1,9 +1,9 @@
 ## Hi there 👋
-* - 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/7h30) boxes or any other ctf I can get my hands on. 
-* - 🌱 I’m currently learning ELK stack with Security onion
-* - 🔭 I’m currently working on TCM's PNPT/Practical Network Pentesting Certification
+* 🔭 I’m currently working on [TryHackMe](https://tryhackme.com/p/7h30) boxes or any other ctf I can get my hands on. 
+* 🌱 I’m currently learning ELK stack with Security onion
+* 🔭 I’m currently working on TCM's PNPT/Practical Network Pentesting Certification
 * I stream myself learning these concepts [b7h30 on Twitch](https://www.twitch.tv/b7h30)
-
+* I'm current reading [Computer Networks: A Systems Approach by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/index.html)
 
 
 <!--
