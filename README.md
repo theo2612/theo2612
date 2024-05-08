@@ -1,7 +1,7 @@
 ## Hi there 👋
 * 🔭 I have a masters in IT and cybersecurity from the University of Cincinnati and I'm currently studying for [CompTIA Security+](https://www.comptia.org/certifications/security). 
 * 🔭 I’m currently working on [HackTheBox](https://www.hackthebox.com/) machines  or any other ctf I can get my hands on. 
-* ⚡I produce 'USB our Guest' podcast available on what ever platform you use to listen [Spotify](https://open.spotify.com/show/1Gvt1x2dlLZvzR5QSHu740?si=351ecb7aa6384a66), [Apple](https://podcasts.apple.com/us/podcast/usb-our-guest-cyber-security-best-practices-and-news/id1475142713), [Anchor](https://anchor.fm/usbog)
+* ⚡I produce 'USB our Guest' podcast with Cyber security tips and industry professional interviews available on what ever platform you use to listen [Spotify](https://open.spotify.com/show/1Gvt1x2dlLZvzR5QSHu740?si=351ecb7aa6384a66), [Apple](https://podcasts.apple.com/us/podcast/usb-our-guest-cyber-security-best-practices-and-news/id1475142713), [Anchor](https://anchor.fm/usbog)
 * ⚡I stream myself learning these concepts on [Twitch](https://www.twitch.tv/b7h30) 
 * ⚡I'm current reading [Computer Networks: A Systems Approach by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/index.html)
 * 🌱 Constantly working on my server [SCMODS](https://github.com/theo2612/scmods-server)
