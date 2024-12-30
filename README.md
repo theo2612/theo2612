@@ -1,8 +1,8 @@
 ## Hi there 👋
 * 🔭 I'm currently studying for [OSCP](https://www.offsec.com/courses/pen-200/). 
-* ⚡ I stream myself learning these concepts on [Twitch](https://www.twitch.tv/b7h30) 
 * ⚡ I'm currently reading [Computer Networks: A Systems Approach by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/index.html)
 * 🌱 Constantly working on my server [SCMODS](https://github.com/theo2612/scmods-server)
+* ⚡ I stream myself learning cyber security concepts on [Twitch](https://www.twitch.tv/b7h30) 
 <!--
 **theo2612/theo2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
